@@ -4,6 +4,8 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+
+.env
 ### STS ###
 .apt_generated
 .classpathF
@@ -37,4 +39,3 @@ src/main/resources/application.properties
 .properties
 
 
-.env
